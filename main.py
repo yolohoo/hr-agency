@@ -53,7 +53,7 @@ def main():
                 if save_confirmation == 'y':
                     save_data(applicants)
             print("\nПрограмма завершена. До свидания!")
-            sys.exit(0)
+            exit()
 
         input("\nНажмите Enter для продолжения...")
 
