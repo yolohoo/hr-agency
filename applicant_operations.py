@@ -63,7 +63,8 @@ def delete_applicant(applicants):
             if 0 <= index < len(applicants):
                 applicant = applicants[index]
                 confirm = input(
-                    f"Вы уверены, что хотите удалить {applicant.last_name} {applicant.first_name}? (y/n): ").lower()
+                    f"Вы уверены, что хотите удалить {applicant.last_name} {applicant.first_name}? (y/n): "
+                ).lower()
                 if confirm == 'y':
                     del applicants[index]
                     print("Соискатель успешно удален.")

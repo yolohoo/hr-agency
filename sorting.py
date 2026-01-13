@@ -2,6 +2,7 @@
 sorting.py - реализация шейкерной сортировки
 """
 
+
 def shaker_sort(arr, key=lambda x: x, reverse=False):
     """
     Сортирует список с использованием шейкерной сортировки.

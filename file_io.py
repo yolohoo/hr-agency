@@ -25,6 +25,7 @@ def load_applicants_from_file(filename):
 
     return applicants
 
+
 def save_applicants_to_file(applicants, filename):
     """
     Сохраняет данные о соискателях в JSON файл.
