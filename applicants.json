@@ -6,20 +6,20 @@
     "gender": "М",
     "birth_date": "1990-05-15",
     "specialty": "Программист",
-    "experience": 5,
+    "experience": 8,
     "languages": [
       "Английский"
     ],
-    "expected_salary": 120000
+    "expected_salary": 180000
   },
   {
     "last_name": "Петров",
-    "first_name": "Петр",
+    "first_name": "Пётр",
     "middle_name": "Петрович",
     "gender": "М",
-    "birth_date": "1988-11-23",
+    "birth_date": "1995-08-22",
     "specialty": "Программист",
-    "experience": 7,
+    "experience": 6,
     "languages": [
       "Английский",
       "Немецкий"
@@ -28,38 +28,25 @@
   },
   {
     "last_name": "Сидорова",
-    "first_name": "Мария",
+    "first_name": "Анна",
     "middle_name": "Сергеевна",
     "gender": "Ж",
-    "birth_date": "1992-03-10",
+    "birth_date": "1998-03-10",
     "specialty": "Программист",
-    "experience": 3,
+    "experience": 4,
     "languages": [
       "Английский"
     ],
-    "expected_salary": 100000
+    "expected_salary": 120000
   },
   {
     "last_name": "Козлов",
-    "first_name": "Алексей",
-    "middle_name": "Владимирович",
-    "gender": "М",
-    "birth_date": "1995-08-22",
-    "specialty": "Программист",
-    "experience": 2,
-    "languages": [
-      "Английский"
-    ],
-    "expected_salary": 90000
-  },
-  {
-    "last_name": "Новиков",
     "first_name": "Дмитрий",
     "middle_name": "Александрович",
     "gender": "М",
-    "birth_date": "1985-12-05",
+    "birth_date": "1985-11-30",
     "specialty": "Программист",
-    "experience": 10,
+    "experience": 12,
     "languages": [
       "Английский",
       "Китайский"
@@ -67,39 +54,211 @@
     "expected_salary": 200000
   },
   {
-    "last_name": "Михайлов",
-    "first_name": "Андрей",
-    "middle_name": "Викторович",
-    "gender": "М",
-    "birth_date": "1986-06-12",
-    "specialty": "Менеджер",
-    "experience": 8,
+    "last_name": "Васильева",
+    "first_name": "Мария",
+    "middle_name": "Павловна",
+    "gender": "Ж",
+    "birth_date": "1992-07-18",
+    "specialty": "Программист",
+    "experience": 7,
     "languages": [
       "Английский"
     ],
-    "expected_salary": 115000
+    "expected_salary": 160000
   },
   {
-    "last_name": "Федорова",
-    "first_name": "Татьяна",
-    "middle_name": "Павловна",
+    "last_name": "Смирнов",
+    "first_name": "Алексей",
+    "middle_name": "Викторович",
+    "gender": "М",
+    "birth_date": "1988-02-14",
+    "specialty": "Бухгалтер",
+    "experience": 10,
+    "languages": [
+      "Английский"
+    ],
+    "expected_salary": 140000
+  },
+  {
+    "last_name": "Кузнецова",
+    "first_name": "Екатерина",
+    "middle_name": "Михайловна",
     "gender": "Ж",
-    "birth_date": "1990-01-20",
-    "specialty": "Менеджер",
+    "birth_date": "1994-09-25",
+    "specialty": "Бухгалтер",
     "experience": 5,
+    "languages": [
+      "Английский"
+    ],
+    "expected_salary": 95000
+  },
+  {
+    "last_name": "Попов",
+    "first_name": "Сергей",
+    "middle_name": "Иванович",
+    "gender": "М",
+    "birth_date": "1982-12-05",
+    "specialty": "Бухгалтер",
+    "experience": 15,
+    "languages": [
+      "Английский",
+      "Французский"
+    ],
+    "expected_salary": 170000
+  },
+  {
+    "last_name": "Лебедева",
+    "first_name": "Ольга",
+    "middle_name": "Дмитриевна",
+    "gender": "Ж",
+    "birth_date": "1997-04-19",
+    "specialty": "Бухгалтер",
+    "experience": 3,
+    "languages": [
+      "Английский"
+    ],
+    "expected_salary": 85000
+  },
+  {
+    "last_name": "Новиков",
+    "first_name": "Михаил",
+    "middle_name": "Сергеевич",
+    "gender": "М",
+    "birth_date": "1991-06-30",
+    "specialty": "Менеджер",
+    "experience": 9,
+    "languages": [
+      "Английский",
+      "Испанский"
+    ],
+    "expected_salary": 165000
+  },
+  {
+    "last_name": "Михайлова",
+    "first_name": "Татьяна",
+    "middle_name": "Андреевна",
+    "gender": "Ж",
+    "birth_date": "1996-01-15",
+    "specialty": "Менеджер",
+    "experience": 4,
+    "languages": [
+      "Английский"
+    ],
+    "expected_salary": 110000
+  },
+  {
+    "last_name": "Фёдоров",
+    "first_name": "Александр",
+    "middle_name": "Николаевич",
+    "gender": "М",
+    "birth_date": "1987-10-08",
+    "specialty": "Менеджер",
+    "experience": 11,
+    "languages": [
+      "Английский",
+      "Китайский"
+    ],
+    "expected_salary": 190000
+  },
+  {
+    "last_name": "Соколова",
+    "first_name": "Наталья",
+    "middle_name": "Викторовна",
+    "gender": "Ж",
+    "birth_date": "1993-11-22",
+    "specialty": "Менеджер",
+    "experience": 6,
+    "languages": [
+      "Английский"
+    ],
+    "expected_salary": 130000
+  },
+  {
+    "last_name": "Кузнецов",
+    "first_name": "Артём",
+    "middle_name": "Андреевич",
+    "gender": "М",
+    "birth_date": "1993-08-12",
+    "specialty": "Дизайнер",
+    "experience": 6,
+    "languages": [
+      "Английский"
+    ],
+    "expected_salary": 140000
+  },
+  {
+    "last_name": "Соловьёва",
+    "first_name": "Белла",
+    "middle_name": "Викторовна",
+    "gender": "Ж",
+    "birth_date": "1995-04-23",
+    "specialty": "Дизайнер",
+    "experience": 6,
+    "languages": [
+      "Английский"
+    ],
+    "expected_salary": 140000
+  },
+  {
+    "last_name": "Иванов",
+    "first_name": "Владимир",
+    "middle_name": "Петрович",
+    "gender": "М",
+    "birth_date": "1992-11-05",
+    "specialty": "Дизайнер",
+    "experience": 6,
     "languages": [
       "Английский",
       "Немецкий"
     ],
-    "expected_salary": 105000
+    "expected_salary": 140000
   },
   {
-    "last_name": "Алексеев",
-    "first_name": "Константин",
+    "last_name": "Васильев",
+    "first_name": "Геннадий",
     "middle_name": "Сергеевич",
     "gender": "М",
-    "birth_date": "1993-08-05",
-    "specialty": "Менеджер",
+    "birth_date": "1996-02-17",
+    "specialty": "Дизайнер",
+    "experience": 4,
+    "languages": [
+      "Английский"
+    ],
+    "expected_salary": 110000
+  },
+  {
+    "last_name": "Петрова",
+    "first_name": "Дарья",
+    "middle_name": "Игоревна",
+    "gender": "Ж",
+    "birth_date": "1998-07-30",
+    "specialty": "Дизайнер",
+    "experience": 3,
+    "languages": [
+      "Английский"
+    ],
+    "expected_salary": 90000
+  },
+  {
+    "last_name": "Тихонов",
+    "first_name": "Евгений",
+    "middle_name": "Валерьевич",
+    "gender": "М",
+    "birth_date": "1989-03-14",
+    "specialty": "Аналитик",
+    "experience": 7,
+    "languages": [
+      "Английский"
+    ],
+    "expected_salary": 185000
+  },
+  {
+    "last_name": "Логинова",
+    "first_name": "Жанна",
+    "middle_name": "Сергеевна",
+    "gender": "Ж",
+    "birth_date": "1997-06-28",
+    "specialty": "Тестировщик",
     "experience": 2,
     "languages": [
       "Английский"
@@ -107,83 +266,122 @@
     "expected_salary": 80000
   },
   {
-    "last_name": "Дмитриева",
-    "first_name": "Наталья",
-    "middle_name": "Валерьевна",
-    "gender": "Ж",
-    "birth_date": "1984-10-17",
-    "specialty": "Менеджер",
-    "experience": 11,
+    "last_name": "Громов",
+    "first_name": "Захар",
+    "middle_name": "Ильич",
+    "gender": "М",
+    "birth_date": "1990-09-11",
+    "specialty": "DevOps",
+    "experience": 8,
     "languages": [
       "Английский",
-      "Французский"
+      "Китайский"
     ],
-    "expected_salary": 140000
+    "expected_salary": 220000
   },
   {
-    "last_name": "Васильев",
-    "first_name": "Станислав",
-    "middle_name": "Евгеньевич",
-    "gender": "М",
-    "birth_date": "1992-09-01",
-    "specialty": "Дизайнер",
-    "experience": 4,
+    "last_name": "Дмитриева",
+    "first_name": "Ираида",
+    "middle_name": "Алексеевна",
+    "gender": "Ж",
+    "birth_date": "1994-12-05",
+    "specialty": "HR-менеджер",
+    "experience": 5,
     "languages": [
       "Английский"
     ],
-    "expected_salary": 105000
+    "expected_salary": 115000
   },
   {
-    "last_name": "Соловьева",
-    "first_name": "Дарья",
-    "middle_name": "Максимовна",
+    "last_name": "Калинин",
+    "first_name": "Константин",
+    "middle_name": "Владимирович",
+    "gender": "М",
+    "birth_date": "1986-05-19",
+    "specialty": "Системный администратор",
+    "experience": 13,
+    "languages": [
+      "Английский"
+    ],
+    "expected_salary": 195000
+  },
+  {
+    "last_name": "Никифоров",
+    "first_name": "Леонид",
+    "middle_name": "Геннадьевич",
+    "gender": "М",
+    "birth_date": "1991-07-22",
+    "specialty": "Frontend-разработчик",
+    "experience": 7,
+    "languages": [
+      "Английский"
+    ],
+    "expected_salary": 160000
+  },
+  {
+    "last_name": "Орлова",
+    "first_name": "Маргарита",
+    "middle_name": "Станиславовна",
     "gender": "Ж",
-    "birth_date": "1989-04-15",
-    "specialty": "Дизайнер",
-    "experience": 6,
+    "birth_date": "1996-03-14",
+    "specialty": "Backend-разработчик",
+    "experience": 3,
     "languages": [
       "Английский"
     ],
     "expected_salary": 125000
   },
   {
-    "last_name": "Богданов",
-    "first_name": "Виктор",
-    "middle_name": "Романович",
+    "last_name": "Павлов",
+    "first_name": "Никита",
+    "middle_name": "Юрьевич",
     "gender": "М",
-    "birth_date": "1995-07-23",
-    "specialty": "Дизайнер",
-    "experience": 1,
+    "birth_date": "1988-11-30",
+    "specialty": "Data Scientist",
+    "experience": 9,
     "languages": [
-      "Английский"
+      "Английский",
+      "Французский"
     ],
-    "expected_salary": 70000
+    "expected_salary": 210000
   },
   {
-    "last_name": "Григорьев",
-    "first_name": "Артем",
-    "middle_name": "Сергеевич",
-    "gender": "М",
-    "birth_date": "1988-03-07",
-    "specialty": "Аналитик",
-    "experience": 7,
+    "last_name": "Романова",
+    "first_name": "Оксана",
+    "middle_name": "Витальевна",
+    "gender": "Ж",
+    "birth_date": "1995-01-25",
+    "specialty": "UX/UI дизайнер",
+    "experience": 4,
     "languages": [
       "Английский"
     ],
     "expected_salary": 135000
   },
   {
-    "last_name": "Белова",
-    "first_name": "Вероника",
-    "middle_name": "Дмитриевна",
-    "gender": "Ж",
-    "birth_date": "1991-10-24",
-    "specialty": "Аналитик",
-    "experience": 4,
+    "last_name": "Соболев",
+    "first_name": "Павел",
+    "middle_name": "Петрович",
+    "gender": "М",
+    "birth_date": "1993-06-08",
+    "specialty": "QA-инженер",
+    "experience": 5,
     "languages": [
-      "Английский",
-      "Испанский"
+      "Английский"
     ],
-    "expected_salary": 100000
+    "expected_salary": 105000
+  },
+  {
+    "last_name": "Тарасова",
+    "first_name": "Раиса",
+    "middle_name": "Михайловна",
+    "gender": "Ж",
+    "birth_date": "1997-10-17",
+    "specialty": "Продуктовый менеджер",
+    "experience": 1,
+    "languages": [
+      "Английский"
+    ],
+    "expected_salary": 95000
   }
 ]

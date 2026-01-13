@@ -3,7 +3,6 @@
 Точка входа в программу с минимальной логикой.
 """
 
-import sys
 from menu import display_menu, get_user_choice
 from applicant_operations import add_applicant, delete_applicant
 from file_operations import load_data, save_data, load_test_database
@@ -11,7 +10,7 @@ from reports import generate_report
 
 
 def main():
-    """Основная функция программы."""
+    """Основная функ1ция программы."""
     applicants = []
     default_file = "applicants.json"
 

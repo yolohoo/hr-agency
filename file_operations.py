@@ -2,21 +2,19 @@
 file_operations.py - работа с файлами
 """
 
-import os
 from file_io import load_applicants_from_file, save_applicants_to_file, create_test_database
 
 
 def load_data(filename):
     """Загружает данные из файла при запуске программы."""
-    if os.path.exists(filename):
-        try:
-            applicants = load_applicants_from_file(filename)
-            print(f"Загружено {len(applicants)} записей из файла {filename}")
-            return applicants
-        except Exception as e:
-            print(f"Ошибка загрузки данных: {e}")
-    else:
+    try:
+        applicants = load_applicants_from_file(filename)
+        print(f"Загружено {len(applicants)} записей из файла {filename}")
+        return applicants
+    except FileNotFoundError:
         print(f"Файл '{filename}' не найден. Будет создана новая база данных.")
+    except Exception as e:
+        print(f"Ошибка загрузки данных: {e}")
     return []
 
 
