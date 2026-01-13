@@ -10,7 +10,7 @@ from reports import generate_report
 
 
 def main():
-    """Основная функ1ция программы."""
+    """Основная функция программы."""
     applicants = []
     default_file = "applicants.json"
 
@@ -59,4 +59,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
